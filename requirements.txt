@@ -2,7 +2,7 @@ streamlit
 pillow
 numpy
 joblib
-tensorflow
-keras
+tensorflow==2.16.2
+keras==3.4.1
 pandas
 scipy
