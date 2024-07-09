@@ -3,3 +3,5 @@ pillow
 numpy
 joblib
 tensorflow
+pandas
+scipy
