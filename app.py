@@ -22,7 +22,7 @@ def preprocess_image(image):
     return image
 
 # Streamlit app
-st.title('Solid Waste Classification with Using Deep Learning')
+st.title('Solid Waste Classification Using Deep Learning')
 st.subheader('By Emuejevoke Eshemitan')
 
 # Display the university logo
